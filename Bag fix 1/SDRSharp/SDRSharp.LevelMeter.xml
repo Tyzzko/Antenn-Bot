@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OptDat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Unit>dB</Unit>
+  <SMeterEnable>true</SMeterEnable>
+  <ShowPopupOnStartup>false</ShowPopupOnStartup>
+  <IsEnabled>true</IsEnabled>
+  <IsSSB>false</IsSSB>
+  <Mode>2</Mode>
+  <GaugeLevelMax>-49</GaugeLevelMax>
+  <GaugeLevelMin>-84</GaugeLevelMin>
+  <tbAttackDecay>30</tbAttackDecay>
+  <nOffset>-49</nOffset>
+  <smLabels />
+  <smCalibrate />
+</OptDat>

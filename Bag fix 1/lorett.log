@@ -1,0 +1,2976 @@
+
+***********
+  12-12-19 14:55:45  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  12-12-19 14:55:45  COM1: port present
+  12-12-19 14:55:45  COM1 port opened
+  12-12-19 14:55:45  origin error
+  12-12-19 14:55:45  Error. Track aborted
+  12-12-19 14:55:57  The end
+
+***********
+  12-12-19 14:56:31  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  12-12-19 14:56:31  COM1: port present
+  12-12-19 14:56:31  COM1 port opened
+  12-12-19 14:56:31  origin error
+  12-12-19 14:56:31  Error. Track aborted
+  12-12-19 14:56:33  The end
+
+***********
+  16-12-19 09:22:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  16-12-19 09:22:06  COM1: port present
+  16-12-19 09:22:06  COM1 port opened
+  16-12-19 09:22:09  Disconnected
+  16-12-19 09:22:45  The end
+
+***********
+  16-12-19 09:23:21  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  16-12-19 09:23:22  COM1: port present
+  16-12-19 09:23:22  COM1 port opened
+  16-12-19 09:23:22  origin error
+  16-12-19 09:23:22  Error. Track aborted
+  16-12-19 09:23:26  origin error
+  16-12-19 09:23:26  Error. Track aborted
+  16-12-19 09:23:31  The end
+
+***********
+  16-12-19 09:23:33  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  16-12-19 09:23:34  COM1: port present
+  16-12-19 09:23:34  COM1 port opened
+  16-12-19 09:23:34  origin error
+  16-12-19 09:23:34  Error. Track aborted
+  16-12-19 09:23:37  The end
+
+***********
+  16-12-19 12:57:11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  16-12-19 12:57:11  COM1: port present
+  16-12-19 12:57:11  COM1 port opened
+  16-12-19 12:57:11  in true origin
+  16-12-19 12:57:16  The end
+
+***********
+  16-12-19 12:58:14  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  16-12-19 12:58:14  COM1: port present
+  16-12-19 12:58:14  COM1 port opened
+  16-12-19 12:58:14  in true origin
+  16-12-19 12:58:19  The end
+
+***********
+  18-12-19 07:11:37  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath D:\LORetta\Track.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  18-12-19 07:11:37  COM1: port present
+  18-12-19 07:11:37  COM1 port opened
+  18-12-19 07:11:39  Disconnected
+  18-12-19 07:11:42  The end
+
+***********
+  03-03-20 06:34:01  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\Downloads\311219_203901.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 06:34:01  COM1 port not present
+  03-03-20 06:34:03  Track loaded: FENGYUN 3C. Start at 31.12.2019  17:40:48
+  03-03-20 06:34:03  too late
+  03-03-20 06:34:06  The end
+
+***********
+  03-03-20 08:12:48  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\Downloads\311219_2039012.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 08:12:48  COM1 port not present
+  03-03-20 08:13:03  The end
+
+***********
+  03-03-20 08:13:05  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\Downloads\311219_2039012.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 08:13:05  COM1 port not present
+  03-03-20 08:13:06  The end
+
+***********
+  03-03-20 08:13:15  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\Downloads\311219_203901.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 08:13:15  COM1 port not present
+  03-03-20 08:13:21  The end
+
+***********
+  03-03-20 08:18:55  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\Downloads\311219_203901.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 08:18:55  COM1 port not present
+  03-03-20 08:18:57  Track loaded: FENGYUN 3C. Start at 31.12.2019  17:40:48
+  03-03-20 08:18:57  too late
+  03-03-20 08:19:02  The end
+
+***********
+  03-03-20 10:27:36  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:27:36  COM1 port not present
+  03-03-20 10:27:38  The end
+
+***********
+  03-03-20 10:30:20  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:30:20  COM1 port not present
+  03-03-20 10:30:21  Track too low
+  03-03-20 10:30:24  The end
+
+***********
+  03-03-20 10:31:50  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:31:50  COM1 port not present
+  03-03-20 10:31:51  Track too low
+  03-03-20 10:31:52  The end
+
+***********
+  03-03-20 10:36:58  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:36:58  COM1 port not present
+  03-03-20 10:37:02  The end
+
+***********
+  03-03-20 10:37:19  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:37:19  COM1 port not present
+  03-03-20 10:37:20  The end
+
+***********
+  03-03-20 10:42:00  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 10:42:00  COM1 port not present
+  03-03-20 10:42:02  The end
+
+***********
+  03-03-20 11:52:07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Users\student\PycharmProjects\frash\311219_203901.txt030320_111856.txt
+ Focus 1400
+ Radius 500
+ Port 1
+ TimeCorr enable
+===
+  03-03-20 11:52:07  COM1 port not present
+  03-03-20 11:52:09  The end
+
+***********
+  07-03-20 12:13:28  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  07-03-20 12:13:28  COM3 port not present
+  07-03-20 12:13:30  Track loaded: NOAA-18. Start at 
+  07-03-20 12:13:30  too late
+  07-03-20 12:13:30  The end
+
+***********
+  08-03-20 11:30:56  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 11:30:56  COM3 port not present
+  08-03-20 11:30:57  Track too low
+  08-03-20 11:31:00  The end
+
+***********
+  08-03-20 11:48:15  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 11:48:15  COM3 port not present
+  08-03-20 11:48:19  The end
+
+***********
+  08-03-20 11:49:01  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 11:49:01  COM3 port not present
+  08-03-20 11:49:04  The end
+
+***********
+  08-03-20 11:49:25  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 11:49:25  COM3 port not present
+  08-03-20 11:49:35  The end
+
+***********
+  08-03-20 13:29:23  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath C:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 13:29:23  COM3 port not present
+  08-03-20 13:29:27  The end
+
+***********
+  08-03-20 14:06:43  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:06:43  COM3 port not present
+  08-03-20 14:06:44  error in track file 2
+  08-03-20 14:06:58  The end
+
+***********
+  08-03-20 14:07:03  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:07:03  COM3 port not present
+  08-03-20 14:07:08  The end
+
+***********
+  08-03-20 14:10:39  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:10:39  COM3 port not present
+  08-03-20 14:10:40  error in track file 2
+  08-03-20 14:10:47  The end
+
+***********
+  08-03-20 14:11:25  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:11:25  COM3 port not present
+  08-03-20 14:11:29  The end
+
+***********
+  08-03-20 14:16:40  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:16:40  COM3 port not present
+  08-03-20 14:16:41  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  17:29:49
+  08-03-20 14:16:41  track sent
+  08-03-20 14:16:58  The end
+
+***********
+  08-03-20 14:17:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:17:06  COM3 port not present
+  08-03-20 14:17:13  The end
+
+***********
+  08-03-20 14:20:50  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:20:50  COM3 port not present
+  08-03-20 14:20:52  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  17:29:49
+  08-03-20 14:20:52  track sent
+  08-03-20 14:23:49  The end
+49  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:22:49  COM3 port not present
+  08-03-20 14:22:51  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  17:29:49
+  08-03-20 14:22:51  track sent
+  08-03-20 14:23:51  The end
+
+***********
+  08-03-20 14:24:07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 14:24:07  COM3 port not present
+  08-03-20 14:24:09  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  17:29:49
+  08-03-20 14:24:09  track sent
+  08-03-20 14:24:23  The end
+
+***********
+  08-03-20 07:09:39  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:09:39  COM3 port not present
+  08-03-20 07:09:40  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:09:40  track sent
+  08-03-20 07:09:40  The end
+
+***********
+  08-03-20 07:13:43  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:13:43  COM3 port not present
+  08-03-20 07:13:45  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:13:45  track sent
+  08-03-20 07:49:30  The end
+07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:24:07  COM3 port not present
+  08-03-20 07:24:09  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:24:09  track sent
+  08-03-20 07:49:32  The end
+11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:37:11  COM3 port not present
+  08-03-20 07:37:12  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:37:12  track sent
+  08-03-20 07:49:33  The end
+03  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:38:03  COM3 port not present
+  08-03-20 07:38:04  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:38:04  track sent
+  08-03-20 07:49:35  The end
+16  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:46:16  COM3 port not present
+  08-03-20 07:46:18  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:46:18  track sent
+  08-03-20 07:46:19  The end
+
+***********
+  08-03-20 07:49:49  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:49:49  COM3 port not present
+  08-03-20 07:49:50  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:49:50  track sent
+  08-03-20 07:53:46  The end
+15  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:52:15  COM3 port not present
+  08-03-20 07:52:17  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:52:17  track sent
+  08-03-20 07:53:47  The end
+
+***********
+  08-03-20 07:54:00  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:54:00  COM3 port not present
+  08-03-20 07:54:02  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:54:02  track sent
+  08-03-20 07:54:06  The end
+
+***********
+  08-03-20 07:54:38  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:54:38  COM3 port not present
+  08-03-20 07:54:40  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:54:40  track sent
+  08-03-20 21:23:42  The end
+28  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:56:28  COM3 port not present
+  08-03-20 07:56:29  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:56:29  track sent
+  08-03-20 07:56:35  The end
+
+***********
+  08-03-20 07:58:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 07:58:06  COM3 port not present
+  08-03-20 07:58:07  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 07:58:07  track sent
+  08-03-20 07:58:07  The end
+
+***********
+  08-03-20 08:07:25  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 08:07:25  COM3 port not present
+  08-03-20 08:07:27  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 08.03.2020  14:06:35
+  08-03-20 08:07:27  track sent
+  08-03-20 21:23:43  The end
+
+***********
+  08-03-20 21:33:16  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 21:33:16  COM3 port not present
+  08-03-20 21:33:18  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 09.03.2020  04:00:47
+  08-03-20 21:33:18  track sent
+  08-03-20 21:37:33  The end
+13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  08-03-20 21:35:13  COM3 port not present
+  08-03-20 21:35:15  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 09.03.2020  04:00:47
+  08-03-20 21:35:15  track sent
+  08-03-20 21:35:16  The end
+
+***********
+  09-03-20 06:16:23  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 06:16:23  COM3 port not present
+  09-03-20 06:16:25  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 09.03.2020  07:24:25
+  09-03-20 06:16:25  track sent
+  09-03-20 06:45:30  The end
+00  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 06:18:00  COM3 port not present
+  09-03-20 06:18:02  Track loaded: ['NOAA-18', 'NOAA-19', 'METEOR-M 2', 'METEOR-M2 2']. Start at 09.03.2020  07:24:25
+  09-03-20 06:18:02  track sent
+  09-03-20 06:45:32  The end
+29  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 06:23:29  COM3 port not present
+  09-03-20 06:23:31  Track loaded: NOAA-18. Start at 09.03.2020  07:24:25
+  09-03-20 06:23:31  track sent
+  09-03-20 06:45:41  The end
+
+***********
+  09-03-20 06:46:02  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 06:46:02  COM3 port not present
+  09-03-20 06:46:04  Track loaded: NOAA-18. Start at 09.03.2020  07:24:25
+  09-03-20 06:46:04  track sent
+  09-03-20 08:46:05  The end
+50  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 06:46:50  COM3 port not present
+  09-03-20 06:46:52  Track loaded: None. Start at 09.03.2020  07:24:25
+  09-03-20 06:46:52  track sent
+  09-03-20 08:46:06  The end
+34  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 07:07:34  COM3 port not present
+  09-03-20 07:07:36  Track loaded: None. Start at 09.03.2020  07:24:25
+  09-03-20 07:07:36  track sent
+  09-03-20 07:07:43  The end
+
+***********
+  09-03-20 08:43:39  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:43:39  COM3 port not present
+  09-03-20 08:43:41  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 08:43:41  track sent
+  09-03-20 08:43:52  The end
+
+***********
+  09-03-20 08:45:32  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:45:32  COM3 port not present
+  09-03-20 08:45:33  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 08:45:33  track sent
+  09-03-20 08:45:45  The end
+
+***********
+  09-03-20 08:45:49  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:45:49  COM3 port not present
+  09-03-20 08:46:00  The end
+
+***********
+  09-03-20 08:46:14  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:46:14  COM3 port not present
+  09-03-20 08:46:16  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 08:46:16  track sent
+  09-03-20 08:46:31  The end
+
+***********
+  09-03-20 08:46:37  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:46:37  COM3 port not present
+  09-03-20 08:46:45  The end
+
+***********
+  09-03-20 08:46:56  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:46:56  COM3 port not present
+  09-03-20 08:46:57  Track loaded: METEOR-M 2. Start at 09.03.2020  16:27:11
+  09-03-20 08:46:57  track sent
+  09-03-20 08:47:31  The end
+
+***********
+  09-03-20 08:47:43  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:47:43  COM3 port not present
+  09-03-20 08:47:45  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 08:47:45  track sent
+  09-03-20 08:47:48  The end
+
+***********
+  09-03-20 08:51:12  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:51:12  COM3 port not present
+  09-03-20 08:51:13  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 08:51:13  track sent
+  09-03-20 08:51:41  The end
+33  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:51:33  COM3 port not present
+  09-03-20 08:51:44  The end
+
+***********
+  09-03-20 08:51:47  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:51:47  COM3 port not present
+  09-03-20 08:51:53  The end
+
+***********
+  09-03-20 08:51:57  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:51:57  COM3 port not present
+  09-03-20 08:53:31  The end
+
+***********
+  09-03-20 08:54:41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:54:41  COM3 port not present
+  09-03-20 08:54:42  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 08:54:42  track sent
+  09-03-20 08:54:44  The end
+
+***********
+  09-03-20 08:54:47  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:54:47  COM3 port not present
+  09-03-20 08:54:52  The end
+
+***********
+  09-03-20 08:55:01  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:55:01  COM3 port not present
+  09-03-20 08:55:02  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 08:55:02  track sent
+  09-03-20 08:55:05  The end
+
+***********
+  09-03-20 08:55:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 08:55:13  COM3 port not present
+  09-03-20 08:55:15  Track loaded: METEOR-M 2. Start at 09.03.2020  16:27:11
+  09-03-20 08:55:15  track sent
+  09-03-20 08:55:19  The end
+
+***********
+  09-03-20 09:04:16  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:04:16  COM3 port not present
+  09-03-20 09:04:18  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  09-03-20 09:04:18  too late
+  09-03-20 09:04:34  The end
+
+***********
+  09-03-20 09:05:40  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:05:40  COM3 port not present
+  09-03-20 09:05:41  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 09:05:41  track sent
+  09-03-20 09:05:43  The end
+
+***********
+  09-03-20 09:05:53  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:05:53  COM3 port not present
+  09-03-20 09:06:05  The end
+
+***********
+  09-03-20 09:06:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:06:13  COM3 port not present
+  09-03-20 09:06:22  The end
+
+***********
+  09-03-20 09:06:37  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:06:37  COM3 port not present
+  09-03-20 09:07:20  The end
+
+***********
+  09-03-20 09:07:46  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:07:46  COM3 port not present
+  09-03-20 09:07:47  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 09:07:47  track sent
+  09-03-20 09:08:03  The end
+
+***********
+  09-03-20 09:08:14  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:08:14  COM3 port not present
+  09-03-20 09:08:16  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 09:08:16  track sent
+  09-03-20 09:08:29  The end
+
+***********
+  09-03-20 09:08:43  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:08:43  COM3 port not present
+  09-03-20 09:08:45  Track loaded: METEOR-M 2. Start at 09.03.2020  16:27:11
+  09-03-20 09:08:45  track sent
+  09-03-20 09:08:55  The end
+
+***********
+  09-03-20 09:09:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:09:06  COM3 port not present
+  09-03-20 09:09:08  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  09-03-20 09:09:08  too late
+  09-03-20 09:09:10  The end
+
+***********
+  09-03-20 09:15:21  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:15:21  COM3 port not present
+  09-03-20 09:15:22  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 09:15:22  track sent
+  09-03-20 09:15:28  The end
+
+***********
+  09-03-20 09:15:32  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:15:32  COM3 port not present
+  09-03-20 09:17:38  The end
+
+***********
+  09-03-20 09:27:15  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:27:15  COM3 port not present
+  09-03-20 09:27:16  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 09:27:16  track sent
+  09-03-20 09:31:17  The end
+
+***********
+  09-03-20 09:52:24  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 09:52:24  COM3 port not present
+  09-03-20 09:52:26  Track loaded: NOAA-19. Start at 09.03.2020  13:49:48
+  09-03-20 09:52:26  track sent
+  09-03-20 09:53:40  The end
+
+***********
+  09-03-20 10:20:33  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 10:20:33  COM3 port not present
+  09-03-20 10:20:35  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 10:20:35  track sent
+  09-03-20 11:01:28  The end
+
+***********
+  09-03-20 11:13:56  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\release_3_808\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  09-03-20 11:13:56  COM3 port not present
+  09-03-20 11:13:57  Track loaded: NOAA-18. Start at 09.03.2020  17:18:23
+  09-03-20 11:13:57  track sent
+  09-03-20 11:33:09  The end
+
+***********
+  10-03-20 06:25:08  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:25:09  COM3 port not present
+  10-03-20 06:25:18  The end
+
+***********
+  10-03-20 06:25:37  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:25:37  COM3 port not present
+  10-03-20 06:25:52  The end
+
+***********
+  10-03-20 06:26:35  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:26:35  COM3 port not present
+  10-03-20 06:26:40  The end
+
+***********
+  10-03-20 06:27:42  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:27:43  COM3 port not present
+  10-03-20 06:27:56  The end
+
+***********
+  10-03-20 06:31:08  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:31:08  COM3 port not present
+  10-03-20 06:58:44  The end
+41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:31:41  COM3 port not present
+  10-03-20 06:31:44  The end
+
+***********
+  10-03-20 06:32:52  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Pyt\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:32:52  COM3 port not present
+  10-03-20 06:32:55  The end
+
+***********
+  10-03-20 06:33:57  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  10-03-20 06:33:57  COM3 port not present
+  10-03-20 06:33:59  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 06:33:59  track sent
+  10-03-20 06:34:02  The end
+
+***********
+  10-03-20 10:04:22  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 10:04:22  COM6 port not present
+  10-03-20 10:04:23  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 10:04:23  track sent
+  10-03-20 10:04:27  The end
+
+***********
+  10-03-20 11:25:41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:25:41  COM6: port present
+  10-03-20 11:25:42  COM6 port opened
+  10-03-20 11:25:42  in true origin
+  10-03-20 11:25:43  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 11:25:43  track sent
+  10-03-20 11:25:45  received ok
+  10-03-20 11:33:53  The end
+45  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:33:45  COM6: port present
+  10-03-20 11:33:45  COM6 port failed to open
+  10-03-20 11:33:46  COM6: port present
+  10-03-20 11:33:46  COM6 port failed to open
+  10-03-20 11:33:46  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+***********
+  10-03-20 11:33:57  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:33:57  COM6: port present
+  10-03-20 11:33:57  COM6 port opened
+  10-03-20 11:33:57  in true origin
+  10-03-20 11:34:15  The end
+
+***********
+  10-03-20 11:34:27  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:34:27  COM6: port present
+  10-03-20 11:34:27  COM6 port opened
+  10-03-20 11:34:27  in true origin
+  10-03-20 11:34:52  The end
+
+***********
+  10-03-20 11:37:10  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:37:10  COM6: port present
+  10-03-20 11:37:10  COM6 port opened
+  10-03-20 11:37:11  in true origin
+  10-03-20 11:39:31  The end
+51  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:38:51  COM6: port present
+  10-03-20 11:38:51  COM6 port failed to open
+  10-03-20 11:38:52  COM6: port present
+  10-03-20 11:38:52  COM6 port failed to open
+  10-03-20 11:38:53  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+***********
+  10-03-20 11:39:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:39:17  COM6: port present
+  10-03-20 11:39:17  COM6 port failed to open
+  10-03-20 11:39:18  COM6: port present
+  10-03-20 11:39:18  COM6 port failed to open
+  10-03-20 11:39:19  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+***********
+  10-03-20 11:39:51  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:39:51  COM6: port present
+  10-03-20 11:39:51  COM6 port opened
+  10-03-20 11:39:52  in true origin
+  10-03-20 11:40:54  The end
+
+***********
+  10-03-20 11:41:07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:41:07  COM6: port present
+  10-03-20 11:41:07  COM6 port opened
+  10-03-20 11:41:07  in true origin
+  10-03-20 11:41:38  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 11:41:38  track sent
+  10-03-20 11:41:41  received ok
+  10-03-20 11:41:47  Disconnected
+  10-03-20 11:41:54  Disconnected
+  10-03-20 11:42:14  Disconnected
+  10-03-20 11:42:29  The end
+
+***********
+  10-03-20 11:43:19  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:43:19  COM6: port present
+  10-03-20 11:43:19  COM6 port opened
+  10-03-20 11:43:20  in true origin
+  10-03-20 11:43:20  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 11:43:20  track sent
+  10-03-20 11:43:23  received ok
+  *10-03-20 11:49:16  To late. Track aborted
+  *10-03-20 11:49:53  The end
+
+***********
+  10-03-20 11:50:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:50:17  COM6: port present
+  10-03-20 11:50:17  COM6 port opened
+  *10-03-20 11:50:17  in true origin
+  *10-03-20 11:50:19  Track loaded: METEOR-M2 2. Start at 11.03.2020  01:37:37
+  *10-03-20 11:50:19  track sent
+  *10-03-20 11:50:21  received ok
+  *10-03-20 11:50:52  The end
+
+***********
+  10-03-20 11:52:07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:52:07  COM6: port present
+  10-03-20 11:52:07  COM6 port opened
+  *10-03-20 11:52:08  in true origin
+  *10-03-20 11:52:11  The end
+
+***********
+  10-03-20 11:53:11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:53:11  COM6: port present
+  10-03-20 11:53:11  COM6 port opened
+  *10-03-20 11:53:11  in true origin
+  *10-03-20 11:53:14  The end
+
+***********
+  10-03-20 11:56:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:56:13  COM6: port present
+  10-03-20 11:56:13  COM6 port opened
+  *10-03-20 11:56:13  in true origin
+  *10-03-20 11:56:37  The end
+
+***********
+  10-03-20 11:57:20  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 11:57:20  COM6: port present
+  10-03-20 11:57:20  COM6 port opened
+  *10-03-20 11:57:22  Track loaded: METEOR-M2 2. Start at 11.03.2020  01:37:37
+  *10-03-20 11:57:22  track sent
+  *10-03-20 11:57:24  received ok
+  *10-03-20 11:57:50  in true origin
+  *10-03-20 12:01:22  The end
+
+***********
+  10-03-20 12:03:04  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:03:04  COM6: port present
+  10-03-20 12:03:04  COM6 port opened
+  *10-03-20 12:03:04  in true origin
+  *10-03-20 12:03:19  The end
+
+***********
+  10-03-20 12:07:11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:07:11  COM6: port present
+  10-03-20 12:07:11  COM6 port opened
+  *10-03-20 12:07:11  in true origin
+  *10-03-20 12:07:18  The end
+
+***********
+  10-03-20 12:07:44  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:07:45  COM6: port present
+  10-03-20 12:07:45  COM6 port opened
+  *10-03-20 12:07:45  in true origin
+  *10-03-20 12:07:52  The end
+
+***********
+  10-03-20 12:08:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:08:06  COM6: port present
+  10-03-20 12:08:07  COM6 port opened
+  *10-03-20 12:08:07  in true origin
+  *10-03-20 12:08:23  The end
+
+***********
+  10-03-20 12:08:50  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:08:50  COM6: port present
+  10-03-20 12:08:50  COM6 port opened
+  *10-03-20 12:08:50  in true origin
+  *10-03-20 12:08:57  The end
+
+***********
+  10-03-20 12:12:14  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:12:14  COM6: port present
+  10-03-20 12:12:15  COM6 port opened
+  *10-03-20 12:12:15  in true origin
+  *10-03-20 12:12:22  The end
+
+***********
+  10-03-20 12:13:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:13:18  COM6: port present
+  10-03-20 12:13:18  COM6 port opened
+  *10-03-20 12:13:18  in true origin
+  *10-03-20 12:13:44  The end
+
+***********
+  09-03-20 12:14:12  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  09-03-20 12:14:12  COM6: port present
+  09-03-20 12:14:12  COM6 port opened
+  *09-03-20 12:14:12  in true origin
+  *09-03-20 12:14:20  The end
+
+***********
+  11-03-20 12:14:46  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 12:14:46  COM6: port present
+  11-03-20 12:14:46  COM6 port opened
+  *11-03-20 12:14:47  in true origin
+  *11-03-20 12:15:17  The end
+
+***********
+  10-03-20 12:16:18  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:16:18  COM6: port present
+  10-03-20 12:16:18  COM6 port opened
+  *10-03-20 12:16:18  in true origin
+  *10-03-20 12:18:02  The end
+
+***********
+  10-03-20 12:18:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:18:13  COM6: port present
+  10-03-20 12:18:13  COM6 port opened
+  *10-03-20 12:18:13  in true origin
+  *11-03-20 12:19:18  The end
+
+***********
+  11-03-20 12:19:46  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 12:19:46  COM6: port present
+  11-03-20 12:19:46  COM6 port opened
+  *11-03-20 12:19:47  in true origin
+  *11-03-20 12:19:54  The end
+
+***********
+  10-03-20 12:28:12  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:28:12  COM6: port present
+  10-03-20 12:28:12  COM6 port opened
+  *10-03-20 12:28:13  in true origin
+  *10-03-20 12:29:51  Disconnected
+  *10-03-20 12:30:53  The end
+
+***********
+  10-03-20 12:33:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:33:17  COM6: port present
+  10-03-20 12:33:17  COM6 port opened
+  10-03-20 12:33:19  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 12:33:19  too late
+  10-03-20 12:33:28  in true origin
+  10-03-20 12:35:22  The end
+
+***********
+  10-03-20 12:35:51  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:35:51  COM6: port present
+  10-03-20 12:35:51  COM6 port opened
+  10-03-20 12:35:52  in true origin
+  10-03-20 12:35:53  Track loaded: METEOR-M2 2. Start at 10.03.2020  11:49:17
+  10-03-20 12:35:53  too late
+  10-03-20 12:38:35  The end
+
+***********
+  10-03-20 12:43:12  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:43:12  COM6: port present
+  10-03-20 12:43:12  COM6 port opened
+  10-03-20 12:43:13  in true origin
+  10-03-20 12:43:14  Track loaded: NOAA-18. Start at 11.03.2020  07:01:45
+  10-03-20 12:43:14  track sent
+  10-03-20 12:43:15  received ok
+  10-03-20 12:43:35  The end
+
+***********
+  10-03-20 12:44:33  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 12:44:33  COM6: port present
+  10-03-20 12:44:33  COM6 port opened
+  10-03-20 12:44:34  in true origin
+  10-03-20 12:45:48  Disconnected
+  10-03-20 12:57:03  COM6 port not present
+  10-03-20 13:25:25  The end
+
+***********
+  10-03-20 20:58:44  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 20:58:44  COM6 port not present
+  10-03-20 20:58:46  Track loaded: NOAA-18. Start at 12.03.2020  15:00:11
+  10-03-20 20:58:46  too late
+  10-03-20 20:59:00  The end
+
+***********
+  10-03-20 20:59:23  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 20:59:23  COM6 port not present
+  10-03-20 20:59:24  Track loaded: METEOR-M2 2. Start at 10.03.2020  22:14:55
+  10-03-20 20:59:24  track sent
+  10-03-20 20:59:42  The end
+
+***********
+  10-03-20 20:59:58  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 20:59:58  COM6 port not present
+  10-03-20 21:00:00  Track loaded: NOAA-18. Start at 12.03.2020  15:00:11
+  10-03-20 21:00:00  too late
+  10-03-20 21:00:11  The end
+
+***********
+  10-03-20 21:00:28  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:00:29  COM6 port not present
+  10-03-20 21:00:30  Track loaded: NOAA-19. Start at 12.03.2020  11:32:18
+  10-03-20 21:00:30  too late
+  10-03-20 21:00:53  The end
+
+***********
+  10-03-20 21:01:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:01:13  COM6 port not present
+  10-03-20 21:01:14  Track loaded: METOP-A. Start at 11.03.2020  04:27:04
+  10-03-20 21:01:14  track sent
+  10-03-20 21:01:15  The end
+
+***********
+  10-03-20 21:01:41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:01:41  COM6 port not present
+  10-03-20 21:01:42  Track loaded: METOP-B. Start at 12.03.2020  15:11:03
+  10-03-20 21:01:42  too late
+  10-03-20 21:02:10  The end
+
+***********
+  10-03-20 21:02:29  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:02:29  COM6 port not present
+  10-03-20 21:02:31  Track loaded: FENGYUN 3B. Start at 11.03.2020  10:04:16
+  10-03-20 21:02:31  track sent
+  10-03-20 21:02:34  The end
+
+***********
+  10-03-20 21:05:19  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:05:19  COM6 port not present
+  10-03-20 21:05:20  Track loaded: NOAA-18. Start at 12.03.2020  15:00:11
+  10-03-20 21:05:20  too late
+  10-03-20 21:05:32  The end
+
+***********
+  10-03-20 21:05:59  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:05:59  COM6 port not present
+  10-03-20 21:06:00  Track loaded: NOAA-19. Start at 12.03.2020  11:32:18
+  10-03-20 21:06:00  too late
+  10-03-20 21:06:02  The end
+
+***********
+  10-03-20 21:21:48  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:21:48  COM6 port not present
+  10-03-20 21:21:50  Track loaded: METOP-A. Start at 11.03.2020  04:27:03
+  10-03-20 21:21:50  track sent
+  11-03-20 06:08:56  The end
+14  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:24:14  COM6 port not present
+  10-03-20 21:24:16  Track loaded: NOAA-18. Start at 12.03.2020  15:00:10
+  10-03-20 21:24:16  too late
+  10-03-20 21:25:06  Track loaded: METEOR-M2 2. Start at 11.03.2020  01:37:37
+  10-03-20 21:25:06  track sent
+  11-03-20 06:08:54  The end
+45  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  10-03-20 21:25:45  COM6 port not present
+  10-03-20 21:25:46  Track loaded: NOAA-18. Start at 12.03.2020  15:00:10
+  10-03-20 21:25:46  too late
+  11-03-20 06:08:55  The end
+
+***********
+  11-03-20 06:09:00  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 06:09:00  COM6 port not present
+  11-03-20 06:09:01  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:09:01  track sent
+  11-03-20 06:10:43  The end
+
+***********
+  11-03-20 06:10:45  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 06:10:45  COM6 port not present
+  11-03-20 06:10:46  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:10:46  track sent
+  11-03-20 06:10:48  The end
+
+***********
+  11-03-20 06:11:11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 06:11:11  COM6 port not present
+  11-03-20 06:11:13  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:11:13  track sent
+  11-03-20 06:11:15  The end
+
+***********
+  11-03-20 06:12:03  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 06:12:03  COM6 port not present
+  11-03-20 06:12:04  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:12:04  track sent
+  11-03-20 06:12:09  The end
+
+***********
+  11-03-20 06:12:54  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 6
+ TimeCorr enable
+===
+  11-03-20 06:12:54  COM6 port not present
+  11-03-20 06:12:55  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:12:55  track sent
+  11-03-20 06:13:05  The end
+
+***********
+  11-03-20 06:14:50  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 06:14:50  COM3: port present
+  11-03-20 06:14:50  COM3 port opened
+  11-03-20 06:14:51  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 06:14:51  track sent
+  11-03-20 06:14:52  Disconnected
+  11-03-20 06:15:02  track upload failed, sent again
+  11-03-20 06:15:09  The end
+
+***********
+  11-03-20 06:44:07  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 06:44:07  COM3: port present
+  11-03-20 06:44:07  COM3 port opened
+  11-03-20 06:44:09  Disconnected
+  11-03-20 06:47:17  COM3 port not present
+  11-03-20 06:47:26  The end
+
+***********
+  11-03-20 06:52:59  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 06:52:59  COM3 port not present
+  11-03-20 06:53:16  COM3: port present
+  11-03-20 06:53:17  COM3 port opened
+  11-03-20 06:53:17  Error. Track aborted
+  11-03-20 06:53:22  origin error
+  11-03-20 06:53:22  Error. Track aborted
+  11-03-20 06:53:28  The end
+
+***********
+  11-03-20 06:53:33  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 06:53:33  COM3: port present
+  11-03-20 06:53:33  COM3 port opened
+  11-03-20 06:53:33  origin error
+  11-03-20 06:53:33  Error. Track aborted
+  11-03-20 06:53:50  The end
+
+***********
+  11-03-20 07:00:06  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:00:06  COM3: port present
+  11-03-20 07:00:06  COM3 port opened
+  11-03-20 07:00:09  in true origin
+  11-03-20 07:00:47  Track loaded: NOAA-18. Start at 11.03.2020  07:01:44
+  11-03-20 07:00:47  track sent
+  11-03-20 07:00:49  received ok
+  11-03-20 07:01:00  in start position
+  11-03-20 07:01:44  tracking
+  11-03-20 07:02:01  finish
+  11-03-20 07:02:21  in true origin
+  11-03-20 07:06:09  The end
+
+***********
+  11-03-20 07:14:41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:14:41  COM3: port present
+  11-03-20 07:14:41  COM3 port opened
+  11-03-20 07:14:41  in true origin
+  11-03-20 07:14:42  Track loaded: METOP-B. Start at 11.03.2020  07:24:35
+  11-03-20 07:14:42  track sent
+  11-03-20 07:14:45  received ok
+  11-03-20 07:14:56  The end
+
+***********
+  11-03-20 07:15:12  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:15:12  COM3: port present
+  11-03-20 07:15:12  COM3 port opened
+  11-03-20 07:15:13  in true origin
+  11-03-20 07:15:13  The end
+
+***********
+  11-03-20 07:15:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:15:17  COM3: port present
+  11-03-20 07:15:17  COM3 port opened
+  11-03-20 07:15:18  in true origin
+  11-03-20 07:18:54  The end
+
+***********
+  11-03-20 07:22:16  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:22:16  COM3: port present
+  11-03-20 07:22:16  COM3 port opened
+  11-03-20 07:22:47  in true origin
+  11-03-20 07:23:36  The end
+
+***********
+  11-03-20 07:23:43  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:23:43  COM3: port present
+  11-03-20 07:23:43  COM3 port opened
+  11-03-20 07:23:43  in true origin
+  11-03-20 07:23:53  The end
+
+***********
+  11-03-20 07:24:13  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:24:13  COM3: port present
+  11-03-20 07:24:13  COM3 port opened
+  11-03-20 07:24:13  in true origin
+  11-03-20 07:24:18  The end
+
+***********
+  11-03-20 07:24:34  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:24:34  COM3: port present
+  11-03-20 07:24:34  COM3 port opened
+  11-03-20 07:24:34  in true origin
+  11-03-20 07:24:48  Disconnected
+  11-03-20 07:24:55  Track loaded: METOP-B. Start at 11.03.2020  07:24:35
+  11-03-20 07:24:55  too late
+  11-03-20 07:25:33  in true origin
+  11-03-20 07:25:48  Disconnected
+  11-03-20 07:26:43  The end
+
+***********
+  11-03-20 07:27:04  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:27:04  COM3: port present
+  11-03-20 07:27:05  COM3 port opened
+  11-03-20 07:27:11  in true origin
+  11-03-20 07:29:58  The end
+
+***********
+  11-03-20 07:34:38  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:34:38  COM3: port present
+  11-03-20 07:34:38  COM3 port opened
+  11-03-20 07:34:38  in true origin
+  11-03-20 07:35:46  The end
+
+***********
+  11-03-20 07:37:11  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:37:11  COM3: port present
+  11-03-20 07:37:11  COM3 port opened
+  11-03-20 07:37:12  in true origin
+  11-03-20 07:37:13  Track loaded: METOP-C. Start at 11.03.2020  08:17:09
+  11-03-20 07:37:13  track sent
+  11-03-20 07:37:15  The end
+
+***********
+  11-03-20 07:37:40  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 07:37:40  COM3: port present
+  11-03-20 07:37:40  COM3 port opened
+  11-03-20 07:37:41  in true origin
+  11-03-20 07:37:49  The end
+
+***********
+  11-03-20 08:07:19  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 08:07:19  COM3: port present
+  11-03-20 08:07:20  COM3 port opened
+  *11-03-20 08:07:30  The end
+
+***********
+  11-03-20 08:07:53  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 08:07:53  COM3: port present
+  11-03-20 08:07:53  COM3 port opened
+  *11-03-20 08:08:29  The end
+
+***********
+  11-03-20 08:10:44  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  11-03-20 08:10:44  COM3: port present
+  11-03-20 08:10:44  COM3 port opened
+  *11-03-20 08:11:02  Track loaded: METOP-C. Start at 11.03.2020  08:17:09
+  *11-03-20 08:11:02  track sent
+  *11-03-20 08:11:05  received ok
+  *11-03-20 08:16:50  in start position
+  *11-03-20 08:17:08  tracking
+  *11-03-20 08:18:23  finish
+  *11-03-20 08:19:05  in true origin
+**11-03-20 08:26:22  Disconnected
+**11-03-20 08:26:22  in true origin
+  11-03-20 10:48:14  Disconnected
+  11-03-20 10:49:11  in true origin
+  11-03-20 11:02:09  Track loaded: METEOR-M2 2. Start at 11.03.2020  11:26:11
+  11-03-20 11:02:09  track sent
+  11-03-20 11:02:11  received ok
+  *11-03-20 11:25:50  in start position
+  *11-03-20 11:26:10  tracking
+  *11-03-20 11:28:22  finish
+  *11-03-20 11:28:57  in true origin
+  *11-03-20 12:15:45  Disconnected
+  *11-03-20 12:16:22  COM3 port not present
+  *11-03-20 18:45:55  Track loaded: NOAA-19. Start at 12.03.2020  11:32:17
+  *11-03-20 18:45:55  track sent
+  *12-03-20 06:34:43  COM3: port present
+  *12-03-20 06:34:47  COM3 port opened
+  *12-03-20 06:34:48  Disconnected
+  *12-03-20 06:34:49  Track loaded: NOAA-18. Start at 12.03.2020  15:00:10
+  *12-03-20 06:34:49  track sent
+  *12-03-20 06:35:00  track upload failed, sent again
+  *12-03-20 06:35:11  track upload failed, sent again
+  *12-03-20 06:35:22  track upload failed, sent again
+  *12-03-20 06:35:34  track upload failed, sent again
+  *12-03-20 06:35:45  track upload failed, sent again
+  *12-03-20 06:35:56  track upload failed, sent again
+  *12-03-20 06:36:07  track upload failed, sent again
+  *12-03-20 06:36:18  track upload failed, sent again
+  *12-03-20 06:36:29  track upload failed, sent again
+  *12-03-20 06:36:40  track upload failed, sent again
+  *12-03-20 06:36:51  track upload failed, sent again
+  *12-03-20 06:37:02  track upload failed, sent again
+  *12-03-20 06:37:13  track upload failed, sent again
+  *12-03-20 06:37:25  track upload failed, sent again
+  *12-03-20 06:37:36  track upload failed, sent again
+  *12-03-20 06:37:47  track upload failed, sent again
+  *12-03-20 06:37:58  track upload failed, sent again
+  *12-03-20 06:38:09  track upload failed, sent again
+  *12-03-20 06:38:20  track upload failed, sent again
+  *12-03-20 06:38:31  track upload failed, sent again
+  *12-03-20 06:38:43  track upload failed, sent again
+  *12-03-20 06:38:54  track upload failed, sent again
+  *12-03-20 06:39:05  track upload failed, sent again
+  *12-03-20 06:39:16  track upload failed, sent again
+  *12-03-20 06:39:27  track upload failed, sent again
+  *12-03-20 06:39:38  track upload failed, sent again
+  *12-03-20 06:39:50  track upload failed, sent again
+  *12-03-20 06:40:01  track upload failed, sent again
+  *12-03-20 06:40:12  track upload failed, sent again
+  *12-03-20 06:40:23  track upload failed, sent again
+  *12-03-20 06:40:34  track upload failed, sent again
+  *12-03-20 06:40:46  track upload failed, sent again
+  *12-03-20 06:40:57  track upload failed, sent again
+  *12-03-20 06:41:08  track upload failed, sent again
+  *12-03-20 06:41:19  track upload failed, sent again
+  *12-03-20 06:41:30  track upload failed, sent again
+  *12-03-20 06:41:42  track upload failed, sent again
+  *12-03-20 06:41:53  track upload failed, sent again
+  12-03-20 06:42:04  track upload failed, sent again
+  12-03-20 06:42:06  received ok
+  12-03-20 06:42:27  The end
+
+***********
+  12-03-20 07:07:41  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 07:07:41  COM3: port present
+  12-03-20 07:07:41  COM3 port opened
+**12-03-20 07:07:41  in true origin
+**12-03-20 07:10:19  Track loaded: METOP-A. Start at 12.03.2020  07:28:48
+**12-03-20 07:10:19  track sent
+**12-03-20 07:10:21  received ok
+**12-03-20 07:28:26  in start position
+**12-03-20 07:28:48  tracking
+**12-03-20 07:30:22  finish
+**12-03-20 07:31:02  in true origin
+**12-03-20 07:33:32  Track loaded: METOP-C. Start at 12.03.2020  07:55:59
+**12-03-20 07:33:32  track sent
+**12-03-20 07:33:34  received ok
+**12-03-20 07:55:36  in start position
+**12-03-20 07:55:59  tracking
+**12-03-20 07:58:13  finish
+**12-03-20 07:58:54  in true origin
+**12-03-20 08:05:43  The end
+
+***********
+  12-03-20 08:19:53  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 08:19:53  COM3: port present
+  12-03-20 08:19:53  COM3 port opened
+**12-03-20 08:19:54  in true origin
+**12-03-20 08:19:54  Track loaded: METEOR-M2 2. Start at 12.03.2020  11:04:04
+**12-03-20 08:19:54  track sent
+**12-03-20 08:19:57  received ok
+**12-03-20 09:42:30  Disconnected
+**12-03-20 09:42:31  in true origin
+**12-03-20 09:43:45  Disconnected
+**12-03-20 09:43:49  in true origin
+**12-03-20 10:53:08  The end
+
+***********
+  12-03-20 10:53:26  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 10:53:27  COM3: port present
+  12-03-20 10:53:27  COM3 port opened
+**12-03-20 10:53:27  in true origin
+**12-03-20 10:54:23  The end
+
+***********
+  12-03-20 10:55:17  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 10:55:17  COM3: port present
+  12-03-20 10:55:17  COM3 port opened
+**12-03-20 10:55:17  in true origin
+**12-03-20 10:55:19  Track loaded: METEOR-M2 2. Start at 12.03.2020  11:04:04
+**12-03-20 10:55:19  track sent
+**12-03-20 10:55:20  received ok
+**12-03-20 11:00:21  The end
+
+***********
+  12-03-20 11:01:03  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 11:01:03  COM3: port present
+  12-03-20 11:01:03  COM3 port opened
+**12-03-20 11:01:03  in true origin
+**12-03-20 11:01:30  The end
+19  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 11:01:19  COM3: port present
+  12-03-20 11:01:19  COM3 port failed to open
+  12-03-20 11:01:20  COM3: port present
+  12-03-20 11:01:20  COM3 port failed to open
+  12-03-20 11:01:20  Track loaded: METEOR-M2 2. Start at 12.03.2020  11:04:04
+***********
+  12-03-20 11:01:37  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 11:01:37  COM3: port present
+  12-03-20 11:01:37  COM3 port opened
+**12-03-20 11:01:37  in true origin
+**12-03-20 11:01:50  The end
+
+***********
+  12-03-20 11:02:18  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 11:02:18  COM3: port present
+  12-03-20 11:02:18  COM3 port opened
+**12-03-20 11:02:18  in true origin
+**12-03-20 11:02:20  The end
+
+***********
+  12-03-20 11:02:24  *** LoReTT log started ***
+===
+LoReTT ini file loaded:
+
+ StationName Name
+ TrackPath c:\Satelite\release_3_808\Bag fix 1\\Track.txt
+ Focus 770
+ Radius 500
+ Port 3
+ TimeCorr enable
+===
+  12-03-20 11:02:24  COM3: port present
+  12-03-20 11:02:24  COM3 port opened
+**12-03-20 11:02:24  in true origin
+**12-03-20 11:02:31  Track loaded: METEOR-M2 2. Start at 12.03.2020  11:04:04
+**12-03-20 11:02:31  track sent
+**12-03-20 11:02:33  received ok
+**12-03-20 11:03:17  in start position
+**12-03-20 11:04:04  tracking
+**12-03-20 11:04:52  finish
+**12-03-20 11:05:13  in true origin
+**12-03-20 11:06:58  Disconnected
+**12-03-20 11:19:03  COM3 port not present
+**12-03-20 11:36:14  The end

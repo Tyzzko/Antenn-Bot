@@ -1,0 +1,48 @@
+﻿<sharpPlugins>
+  <add key="AF DNR" value="SDRSharp.DNR.AFNoiseReductionPlugin,SDRSharp.DNR" />
+  <add key="IF DNR" value="SDRSharp.DNR.IFNoiseReductionPlugin,SDRSharp.DNR" />
+  <add key="Baseband Noise Blanker" value="SDRSharp.NoiseBlanker.BasebandNoiseBlankerPlugin,SDRSharp.NoiseBlanker" />
+  <add key="IF Noise Blanker" value="SDRSharp.NoiseBlanker.IFNoiseBlankerPlugin,SDRSharp.NoiseBlanker" />
+  <add key="Demodulator Noise Blanker" value="SDRSharp.NoiseBlanker.DemodulatorNoiseBlankerPlugin,SDRSharp.NoiseBlanker" />
+  <add key="Wave Recorder" value="SDRSharp.WavRecorder.WavRecorderPlugin,SDRSharp.WavRecorder" />
+  <add key="Zoom FFT" value="SDRSharp.ZoomFFT.ZoomFFTPlugin,SDRSharp.ZoomFFT" />
+  <add key="Band Plan" value="SDRSharp.BandPlan.BandPlanPlugin,SDRSharp.BandPlan" />
+  <add key="Frequency Manager" value="SDRSharp.FrequencyManager.FrequencyManagerPlugin,SDRSharp.FrequencyManager" />
+  <add key="Signal Diagnostics" value="SDRSharp.Diagnostics.DiagnosticsPlugin,SDRSharp.Diagnostics" />
+  <add key="XmlBeautifier" value="SDRSharp.XmlBeautifier.XmlBeautifierPlugin,SDRSharp.XmlBeautifier" />
+  <add key="DigitalAudioProcessor" value="SDRSharp.DigitalAudioProcessor.DigitalAudioProcessorPlugin,SDRSharp.DigitalAudioProcessor" />
+  <add key="AudioRecorder" value="SDRSharp.AudioRecorder.AudioRecorderPlugin,SDRSharp.AudioRecorder" />
+  <add key="AuxVFO-1" value="SDRSharp.AuxVFO.AuxVFOPlugin,SDRSharp.AuxVFO" />
+  <add key="AuxVFO-2" value="SDRSharp.AuxVFO.AuxVFOPlugin,SDRSharp.AuxVFO" />
+  <add key="JarodCalc" value="SDRSharp.JarodCalc.JarodCalcPlugin,SDRSharp.JarodCalc" />
+  <add key="BasebandRecorder" value="SDRSharp.BasebandRecorder.BasebandRecorderPlugin,SDRSharp.BasebandRecorder" />
+  <add key="CTCSSDecoder" value="SDRSharp.CTCSSDecoder.CTCSSDecoderPlugin,SDRSharp.CTCSSDecoder" />
+  <add key="DCSDecoder" value="SDRSharp.DCSDecoder.DCSDecoderPlugin,SDRSharp.DCSDecoder" />
+  <add key="DAP" value="SDRSharp.DAP.DAPPlugin,SDRSharp.DAP" />
+  <add key="DSD" value="SDRSharp.DSD.DSDPlugin,SDRSharp.DSD" />
+  <add key="DSDtcp" value="SDRSharp.DSDtcp.DSDtcpPlugin,SDRSharp.DSDtcp" />
+  <add key="Frequency Scanner" value="SDRSharp.FrequencyScanner.FrequencyScannerPlugin,SDRSharp.FrequencyScanner" />
+  <add key="FrequencyLock" value="SDRSharp.FrequencyLock.FrequencyLockPlugin,SDRSharp.FrequencyLock" />
+  <add key="DigitalIfProcessor" value="SDRSharp.DigitalIfProcessor.DigitalIfProcessorPlugin,SDRSharp.DigitalIfProcessor" />
+  <add key="IFRecorder" value="SDRSharp.IFRecorder.IFRecorderPlugin,SDRSharp.IFRecorder" />
+  <add key="Meteor" value="SDRSharp.Meteor.MeteorPlugin,SDRSharp.Meteor" />
+  <add key="MPX" value="SDRSharp.OutMPX.OutMPXPlugin,SDRSharp.OutMPX" />
+  <add key="TV" value="SDRSharp.TV.TVPlugin,SDRSharp.TV" />
+  <add key="Tetra" value="SDRSharp.Tetra.TetraPlugin,SDRSharp.Tetra" />
+  <add key="TimeShift" value="SDRSharp.TimeShift.TimeShiftPlugin,SDRSharp.TimeShift" />
+  <add key="Accessibility Control" value="SDRSharp.AccessibilityPlugin.AccessibilityPlugin,SDRSharp.AccessibilityPlugin" />
+  <add key="Calico" value="SDRSharp.Calico.CalicoPlugin,SDRSharp.Calico" />
+  <add key="DDE Tracker" value="SDRSharp.DDETracker.DdeTrackingPlugin,SDRSharp.DDETracker" />
+  <add key="Extended FFT" value="SDRSharp.ExtendedFFT.ExtendedFftPlugin,SDRSharp.ExtendedFFT" />
+  <add key="FFT Grabber" value="SDRSharp.FFTGrabber.FFTGrabberPlugin,SDRSharp.FFTGrabber" />
+  <add key="GpredictConnector" value="SDRSharp.GpredictConnector.GpredictConnectorPlugin,SDRSharp.GpredictConnector" />
+  <add key="MagicEye" value="SDRSharp.MagicEye.MagicEyePlugin,SDRSharp.MagicEye" />
+  <add key="Net Remote" value="SDRSharp.NetRemote.NetRemotePlugin,SDRSharp.NetRemote" />
+  <add key="OmniRig Sync" value="SDRSharp.OmniRigSync.OmniRigSyncPlugin,SDRSharp.OmniRigSync" />
+  <add key="Plugin Manager Suite" value="SDRSharp.PluginManager.PluginManagerPlugin,SDRSharp.PluginManager" />
+  <add key="S-Meter" value="SDRSharp.LevelMeter.LevelMeterPlugin,SDRSharp.LevelMeter" />
+  <add key="ScytaleC" value="SDRSharp.ScytaleC.ScytaleCPlugin,SDRSharp.ScytaleC" />
+  <add key="Contour Shuttle Control" value="SDRSharp.ShuttlePlugin.ShuttlePlugin,SDRSharp.ShuttlePlugin" />
+  <add key="SNR Logger" value="SDRSharp.SNRLogger.SNRLoggerPlugin,SDRSharp.SNRLogger" />
+  <add key="UDPAudioPlugin" value="SDRSharp.UDPAudio.UDPAudioPlugin,SDRSharp.UDPAudio" />
+</sharpPlugins>
