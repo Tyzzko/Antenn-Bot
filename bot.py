@@ -3,17 +3,17 @@ from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 '''
-from pyorbital import tlefile
+#from pyorbital import tlefile
 from datetime import datetime
 from pyorbital.orbital import Orbital
 from requests import get
 
 from config import TOKEN
 hou = 24
-pitch = 45
+pitch = 20
 long_poz = 43.8399 
 lat_poz= 55.3948
-height_poz = 163
+height_poz = 0
 
 def update_tle():
     file = open("tle.txt", "ab")
@@ -25,7 +25,7 @@ def update_tle():
 # bot = Bot(token=TOKEN)
 # dp = Dispatcher(bot)
 
-#tle_file = update_tle()
+tle_file = update_tle()
 
 noaa_18 = Orbital("NOAA-18")
 noaa_19 = Orbital("NOAA-19")
@@ -50,7 +50,11 @@ passes = {'noaa15': noaa_15.get_next_passes(utc_time, hou, long_poz, lat_poz, he
           'noaa19': noaa_19.get_next_passes(utc_time, hou, long_poz, lat_poz, height_poz, tol=0.001, horizon=pitch),
           'meteor_m2': meteor_m2.get_next_passes(utc_time, hou, long_poz, lat_poz,
                                                  height_poz, tol=0.001, horizon=pitch)}
-print(passes)
+print()
+for i in (passes['noaa15']):
+    for a in i:
+        print(a)
+    print()
 
 
 
