@@ -10,8 +10,8 @@ def update_tle():  # функция обнавления tle файлов
 
 
 class Satellite_Bot:
-    hou = 12 # кол-во часов для расчета пролетов
-    pitch = 20  # мин высота
+    hou = 2400 # кол-во часов для расчета пролетов
+    pitch = 11  # мин высота
     long_poz = 43.8399  # долгота широта высота
     lat_poz = 55.3948
     height_poz = 0
@@ -19,9 +19,11 @@ class Satellite_Bot:
 
     # Функция для расчета пролетов для спутников работающих в укв диапазоне
     def calculation_satellite(self):
-        update_tle()
         ###
         # тут надо написать условие обнавления tle (померить время и если разница больше чем три дня то обнавляем)
+        if Satellite_Bot.update_time == 0 or str((Satellite_Bot.update_time - (datetime.date(datetime.now())))).split('-')[-1] == '03':
+            Satellite_Bot.update_time = (datetime.date(datetime.now()))
+            update_tle()
         self.utc_time = datetime.utcnow()
         self.noaa_18 = Orbital("NOAA-18", tle_file='tle.txt')
         self.noaa_19 = Orbital("NOAA-19", tle_file='tle.txt')
