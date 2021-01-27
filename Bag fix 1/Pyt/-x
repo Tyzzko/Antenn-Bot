@@ -1,0 +1,133 @@
+# -*- coding: utf-8 -*-
+
+################################################################################
+## Form generated from reading UI file 'GUI.ui'
+##
+## Created by: Qt User Interface Compiler version 5.14.1
+##
+## WARNING! All changes made in this file will be lost when recompiling UI file!
+################################################################################
+
+from PySide2.QtCore import (QCoreApplication, QMetaObject, QObject, QPoint,
+    QRect, QSize, QUrl, Qt)
+from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont,
+    QFontDatabase, QIcon, QLinearGradient, QPalette, QPainter, QPixmap,
+    QRadialGradient)
+from PySide2.QtWidgets import *
+
+
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        if MainWindow.objectName():
+            MainWindow.setObjectName(u"MainWindow")
+        MainWindow.setEnabled(True)
+        MainWindow.resize(939, 517)
+        sizePolicy = QSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(MainWindow.sizePolicy().hasHeightForWidth())
+        MainWindow.setSizePolicy(sizePolicy)
+        MainWindow.setMaximumSize(QSize(939, 517))
+        MainWindow.setFocusPolicy(Qt.ClickFocus)
+        MainWindow.setWindowOpacity(2.000000000000000)
+        MainWindow.setAutoFillBackground(False)
+        MainWindow.setStyleSheet(u"QPushButton{\n"
+"	margin: 8;\n"
+"	background-color: qlineargradient(spread:pad, x1:0.267, y1:0.085, x2:1, y2:1, stop:0 rgba(68, 68, 68, 255), stop:1 			rgba(50, 50, 50, 255));\n"
+"	width: 180px;\n"
+"	height: 60px;\n"
+"	border: 1px;\n"
+"	border-radius: 6px;\n"
+"	text-align: center;\n"
+"	font: 75 14pt \"Verdana\" ;\n"
+"	font-weight: bold;\n"
+"	color: rgb(215, 215, 215);\n"
+"}\n"
+"\n"
+"\n"
+"\n"
+"QPushButton:hover{\n"
+"	color: rgb(2, 232, 213);\n"
+"	margin: 4px;\n"
+"	font: 75 16pt \"Verdana\";\n"
+"	font-weight: bold;\n"
+"  	-webkit-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);\n"
+"  	-moz-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);\n"
+" 	 box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);\n"
+"  	background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));\n"
+"  	background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));\n"
+"  	background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));\n"
+"  	background-image: -ms-linear-gradient(bottom, rgba(0,"
+                        " 0, 0, 0), rgba(0, 0, 0, 0.4));\n"
+"  	background-image: linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));\n"
+"}\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"QMainWindow{\n"
+"background-color:  qlineargradient(spread:reflect, x1:1, y1:1, x2:0, y2:0.056, stop:0 rgba(57, 57, 57, 255), stop:1 rgba(93, 93, 93, 255));\n"
+"}")
+        self.centralwidget = QWidget(MainWindow)
+        self.centralwidget.setObjectName(u"centralwidget")
+        self.verticalLayoutWidget = QWidget(self.centralwidget)
+        self.verticalLayoutWidget.setObjectName(u"verticalLayoutWidget")
+        self.verticalLayoutWidget.setGeometry(QRect(20, 20, 198, 242))
+        self.verticalLayout = QVBoxLayout(self.verticalLayoutWidget)
+        self.verticalLayout.setSpacing(0)
+        self.verticalLayout.setObjectName(u"verticalLayout")
+        self.verticalLayout.setSizeConstraint(QLayout.SetFixedSize)
+        self.verticalLayout.setContentsMargins(0, 0, 0, 0)
+        self.pushButton = QPushButton(self.verticalLayoutWidget)
+        self.pushButton.setObjectName(u"pushButton")
+        self.pushButton.setEnabled(True)
+        sizePolicy.setHeightForWidth(self.pushButton.sizePolicy().hasHeightForWidth())
+        self.pushButton.setSizePolicy(sizePolicy)
+        self.pushButton.setCursor(QCursor(Qt.PointingHandCursor))
+        self.pushButton.setAcceptDrops(True)
+
+        self.verticalLayout.addWidget(self.pushButton)
+
+        self.pushButton_2 = QPushButton(self.verticalLayoutWidget)
+        self.pushButton_2.setObjectName(u"pushButton_2")
+        self.pushButton_2.setEnabled(True)
+        sizePolicy.setHeightForWidth(self.pushButton_2.sizePolicy().hasHeightForWidth())
+        self.pushButton_2.setSizePolicy(sizePolicy)
+        self.pushButton_2.setCursor(QCursor(Qt.PointingHandCursor))
+        self.pushButton_2.setAcceptDrops(True)
+        self.pushButton_2.setStyleSheet(u"")
+
+        self.verticalLayout.addWidget(self.pushButton_2)
+
+        self.pushButton_3 = QPushButton(self.verticalLayoutWidget)
+        self.pushButton_3.setObjectName(u"pushButton_3")
+        self.pushButton_3.setEnabled(True)
+        sizePolicy.setHeightForWidth(self.pushButton_3.sizePolicy().hasHeightForWidth())
+        self.pushButton_3.setSizePolicy(sizePolicy)
+        self.pushButton_3.setCursor(QCursor(Qt.PointingHandCursor))
+        self.pushButton_3.setAcceptDrops(True)
+        self.pushButton_3.setStyleSheet(u"")
+
+        self.verticalLayout.addWidget(self.pushButton_3)
+
+        MainWindow.setCentralWidget(self.centralwidget)
+        self.menubar = QMenuBar(MainWindow)
+        self.menubar.setObjectName(u"menubar")
+        self.menubar.setGeometry(QRect(0, 0, 939, 21))
+        MainWindow.setMenuBar(self.menubar)
+        self.statusbar = QStatusBar(MainWindow)
+        self.statusbar.setObjectName(u"statusbar")
+        MainWindow.setStatusBar(self.statusbar)
+
+        self.retranslateUi(MainWindow)
+
+        QMetaObject.connectSlotsByName(MainWindow)
+    # setupUi
+
+    def retranslateUi(self, MainWindow):
+        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"ControlPanel ver - Choi is alive", None))
+        self.pushButton.setText(QCoreApplication.translate("MainWindow", u"Start test", None))
+        self.pushButton_2.setText(QCoreApplication.translate("MainWindow", u"Start tracking", None))
+        self.pushButton_3.setText(QCoreApplication.translate("MainWindow", u"Update TLE", None))
+    # retranslateUi
+

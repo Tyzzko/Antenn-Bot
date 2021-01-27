@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pluginEntry>
+   <plugin pluginName="DDE Tracker" downloadLink="http://www.satsignal.eu/software/DDETrackerV5Binaries.zip">
+    <description>Allows programs like WXTrack to work with SDRSharp through a DDE interface</description>
+    <website>http://www.satsignal.eu</website>
+  </plugin>
+  <plugin pluginName="QPSK Demodulator" downloadLink="http://rtl-sdr.ru/uploads/download/meteor.zip">
+    <description>Used to demodulate QPSK signals from the Meteor M2 weather satellites. Used in conjunction with LRPT decoder</description>
+    <website>
+http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Gpredict Connector" downloadLink="https://github.com/alexwahl/SDRSharp.GpredictConnector/archive/master.zip">
+    <author>
+Alex Wahl</author>
+    <description>Allows the GPredict satellite tracking software to interface with SDR# and automatically control the frequency.</description>
+  </plugin>
+  <plugin pluginName="CTCSS Detector and Squelch" downloadLink="http://rtl-sdr.ru/uploads/download/ctcssdecoder.zip">
+    <description>Adds a Continuous Tone-Coded Squelch System (CTCSS) decoder.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="DCS Detector and Squelch Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/dcsdecoder.zip">
+    <description>Adds a Digital Coded Squelch (DCS) decoder. Similar to the CTCSS detector.</description>
+    <website>
+http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="TimeShift SDR" downloadLink="http://rtl-sdr.ru/uploads/download/timeshift.zip">
+    <description>Allows signal reception to be timeshifted to allow for time to click on a signal.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Digital Audio Processor" downloadLink="http://rtl-sdr.ru/uploads/download/dap.zip">
+    <description>Adds digital audio processing features such as an improved squelcher, an audio inverter and a bandpass and deemphasis filter.</description>
+    <website>https//rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Audio Processor" downloadLink="http://rtl-sdr.ru/uploads/download/audioprocessor.zip">
+    <description>Similar to the digital audio processor shown above, but adds the ability to graphically adjust the bandpass filter in the audio spectrum of SDR#.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="RDS Logger" downloadLink="http://www.apritch.co.uk/rdsdataloggerBeta18.zip">
+    <description>Logs Radio Data System (RDS) data to a CSV file.</description>
+    <website>http://www.apritch.co.uk/</website>
+  </plugin>
+  <plugin pluginName="DSD+ GUI Interface" downloadLink="http://rtl-sdr.ru/uploads/download/dsd.zip">
+    <description>Adds a GUI interface for the popular DSD+ digital speech decoder program.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="AUX VFO" downloadLink="http://rtl-sdr.ru/uploads/download/auxvfo.zip">
+    <description>Enables multiple VFO's in SDR#. (In other words, you can tune to several stations simultaneously within the same swatch of live bandwidth)</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="PAL/SECAM TV Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/tv.zip">
+    <description>Allows you to watch analogue PAL TV channels in black and white through SDR#.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="IF Processor &amp; Tracking Notch Filter Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/ifprocessor.zip">
+    <description>Adds the ability to set tracking notch filters in the IF stage and to asymmetrically filter the IF stage.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Modified Baseband Recording Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/basebandrecorder.zip">
+    <description>An enhanced version of the recording plugin that comes standard with all SDR# installations. Adds a scheduler, a feature to record only when there is a signal, select samplerate, and choose file output location.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Modified Audio Recording Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/audiorecorder.zip">
+    <description>A modified version of the default audio recording plugin. Adds a scheduler.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Level Meter Plugin" downloadLink="http://levelmeter.sub-web.de/download/LevelMeterPlugin_v06.zip">
+    <version>6
+</version>
+    <description>Adds a power meter for the currently tuned frequency and bandwidth.</description>
+    <website>http://levelmeter.sub-web.de</website>
+  </plugin>
+  <plugin pluginName="MPX Output Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/mpxoutput.zip">
+    <description>Allows programs like RDS Spy to work with the audio output from SDR#.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Aviation band 8.33 Calculator Plugin" downloadLink="http://rtl-sdr.ru/uploads/download/833calc.zip">
+    <description>Automatically converts the current frequency input to an aviation one according to the standard 8.33 kHz channel spacing.</description>
+    <website>http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Frequency Lock plugin" downloadLink="http://rtl-sdr.ru/uploads/download/freqlock.zip">
+    <description>Simply locks the frequency settings in SDR# to prevent accidental changes.</description>
+    <website>
+http://rtl-sdr.ru</website>
+  </plugin>
+  <plugin pluginName="Passive Radar Plugin" downloadLink="https://www.dropbox.com/sh/tqjycu9nxdfhk0u/AAA9KSE6-mRUwV10s0F9v7Jpa?dl=0">
+    <author>DR DANIEL MICHAŁ KAMIŃSKI</author>
+    <description>Allows you to use the RTL-SDR as a passive radar detector.</description>
+    <website>www.kaminski.up.lublin.pl</website>
+  </plugin>
+  <plugin pluginName="IF Average" downloadLink="https://www.dropbox.com/sh/v3ul0a8x9ofagej/AADwDWqiuGUZexueFzfqEGGva?dl=0">
+    <author>DR DANIEL MICHAŁ KAMIŃSKI</author>
+    <description>Averages the current bandwidth. Is useful for applications such as radio astronomy.</description>
+    <website>http://www.kaminski.up.lublin.pl</website>
+  </plugin>
+  <plugin pluginName="Tuner Knob Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c89pas3l_612236.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.0.1655.0</version>
+    <description>A visual tuner knob control for SDR#. Great for touch screens and tablets.</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+  <plugin pluginName="SDR# Dark Mode Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c8pf3nno_348570.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.1.1655.0</version>
+    <description>Adds simple UI options to SDR#, including the ability to make the interface black in color, remove excess padding to save screen space and to move the top frequency toolbar to the bottom of the screen.</description>
+    <website>https://SDRplugins.com</website>
+  </plugin>
+  <plugin pluginName="FFT Grabber Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c7o1kkt9_395285.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.0.1655.0</version>
+    <description> Allows you to take easy screenshots of the FFT and waterfall spectrums.</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+  <plugin pluginName="Toolbar Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c9t2tq6o_706633.zip">
+    <author>Eddie MacDonald</author>
+    <version>1.5.1569.0</version>
+    <description>Puts some useful SDR# controls right on the SDR# toolbar, making them easier to access</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+</pluginEntry>

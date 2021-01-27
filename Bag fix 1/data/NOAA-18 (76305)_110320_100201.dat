@@ -1,0 +1,77 @@
+LoReTT data file
+Configuration:
+ver 3.808
+Station name Name
+Radius 500
+Focus 770
+Deviation threshold 0.4
+Deviation step 4
+Max. deviation 31
+FeedBack disable
+ScanLR disable
+ScanFB disable
+Korr. koeff.=1
+TrackInfo:
+NOAA-18
+max elevation 57.78; 19 actual points
+Start at 11.03.2020  10:01:44
+ Fi       R     Korr    Korr0     P      SNR     N      X      step    err
+274.7   489.6   0       0       0.0     0.0     0       1         0     0  
+275.5   488.7   0       0       0.0     0.0     0       1         1     0  
+276.3   487.7   0       0       0.0     0.0     0       1         2     0  
+277.1   487.1   0       0       0.0     0.0     0       1         3     0  
+277.9   486.5   0       0       0.0     0.0     0       1         4     0  
+278.7   486.1   0       0       0.0     0.0     0       1         5     0  
+279.6   485.8   0       0       0.0     0.0     0       1         6     0  
+280.4   485.5   0       0       0.0     0.0     0       1         7     0  
+281.2   485.2   0       0       0.0     0.0     0       1         8     0  
+282.0   485.2   0       0       0.0     0.0     0       1         9     0  
+282.9   485.2   0       0       0.0     0.0     0       1         10     0  
+283.7   485.2   0       0       0.0     0.0     0       1         11     0  
+284.5   485.5   0       0       0.0     0.0     0       1         12     0  
+285.3   485.8   0       0       0.0     0.0     0       1         13     0  
+286.1   486.5   0       0       0.0     0.0     0       1         14     0  
+287.0   486.8   0       0       0.0     0.0     0       1         15     0  
+287.8   487.7   0       0       0.0     0.0     0       1         16     0  
+288.6   488.3   0       0       0.0     0.0     0       1         17     0  
+Noise level -1
+RealTime section
+Power level
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SNR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pluginEntry>
+  <plugin pluginName="Tuner Knob Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c89pas3l_612236.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.0.1655.0</version>
+    <description>A visual tuner knob control for SDR#. Great for touch screens and tablets.</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+  <plugin pluginName="SDR# Dark Mode Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c8pf3nno_348570.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.1.1655.0</version>
+    <description>Adds simple UI options to SDR#, including the ability to make the interface black in color, remove excess padding to save screen space and to move the top frequency toolbar to the bottom of the screen.</description>
+    <website>https://SDRplugins.com</website>
+  </plugin>
+  <plugin pluginName="FFT Grabber Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c7o1kkt9_395285.zip">
+    <author>Eddie MacDonald</author>
+    <version>2.0.1655.0</version>
+    <description> Allows you to take easy screenshots of the FFT and waterfall spectrums.</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+  <plugin pluginName="Toolbar Plugin" downloadLink="https://img1.wsimg.com/blobby/go/48f06cff-bc86-4ac4-8e29-8e148807ebca/downloads/1c9t2tq6o_706633.zip">
+    <author>Eddie MacDonald</author>
+    <version>1.5.1569.0</version>
+    <description>Puts some useful SDR# controls right on the SDR# toolbar, making them easier to access</description>
+    <website>https://SDRPlugins.com</website>
+  </plugin>
+</pluginEntry>

@@ -10,8 +10,8 @@ def update_tle():  # функция обнавления tle файлов
 
 
 class Satellite_Bot:
-    hou = 240 # кол-во часов для расчета пролетов
-    pitch = 80  # мин высота
+    hou = 12 # кол-во часов для расчета пролетов
+    pitch = 20  # мин высота
     long_poz = 43.8399  # долгота широта высота
     lat_poz = 55.3948
     height_poz = 0
@@ -45,7 +45,7 @@ class Satellite_Bot:
 
     def plans_txt_list(self, passes_slovar: dict):
         mass = ['noaa15', 'noaa18', 'noaa19', 'meteor_m2']
-        self.plans = open('plans.txt', 'a+')
+        self.plans = open('plans_1.txt', 'w')
         for n in mass:
             for i in passes_slovar[n]:
                 self.plans.write(f'{n}\n')

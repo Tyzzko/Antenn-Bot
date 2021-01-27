@@ -1,0 +1,21 @@
+LoReTT data file
+Configuration:
+ver 3.808
+Station name Name
+Radius 500
+Focus 770
+Deviation threshold 0.4
+Deviation step 4
+Max. deviation 31
+FeedBack disable
+ScanLR disable
+ScanFB disable
+Korr. koeff.=1
+TrackInfo:
+
+ Fi       R     Korr    Korr0     P      SNR     N      X      step    err
+Noise level 7.00649e-45
+RealTime section
+Power level
+SNR
+end

@@ -1,3 +1,7 @@
+TOKEN = '1428277794:AAFPUnZh5fKmrhVtditxzE9ojsbOuVE-WHA'
+
+
+
 '''
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
