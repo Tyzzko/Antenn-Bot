@@ -12,7 +12,7 @@ from datetime import datetime
 from pyorbital.orbital import Orbital
 from requests import get
 
-from config import TOKEN
+TOKEN = '1428277794:AAFPUnZh5fKmrhVtditxzE9ojsbOuVE-WHA'
 hou = 24
 pitch = 20
 long_poz = 43.8399 
