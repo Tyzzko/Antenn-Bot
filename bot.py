@@ -1,3 +1,5 @@
+from aiohttp.web_routedef import get
+from main import satellite
 from config import TOKEN
 import logging
 from aiogram import Bot, Dispatcher, executor, types
@@ -14,7 +16,7 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['help'])
 async def send_photos(message: types.Message):
-    await message.reply("Напиши мне что-нибудь, и я отпрпавлю этот текст тебе в ответ!")
+    await bot.send_photo(message.chat.id, get("img/kot1.png").content)
 
 
 

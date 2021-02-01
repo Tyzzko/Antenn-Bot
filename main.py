@@ -79,6 +79,8 @@ class Satellite_Bot:
         self.log.write('----------\n')
         self.log.close()
 
+    def get_current_photos(self, list):
+        self.current_photos = list
 
 satellite = Satellite_Bot()
 
@@ -93,4 +95,6 @@ for i in passes:
             result = cur.execute("""SELECT file_name FROM photos
                         WHERE year = 2010""").fetchall()
             current_files = os.listdir('C:/Program Files (x86)/WXtoImg/images')
-            output = set(current_files).intersection(set(result))
+            satellite.get_current_photos(list(set(current_files).intersection(set(result))))
+            for i in satellite.current_photos:
+                cur.execute(f'INSERT INTO photos file_name {i}')
