@@ -1,6 +1,11 @@
 from datetime import datetime  # импорт внешних модулей
+import dp as dp
+import asyncio
+from aiogram.types import message
 from pyorbital.orbital import Orbital
 from requests import get
+
+
 
 
 def update_tle():  # функция обнавления tle файлов
@@ -75,11 +80,13 @@ class Satellite_Bot:
         self.log.close()
 
 
-bot = Satellite_Bot()
+satellite = Satellite_Bot()
 
-passes = bot.calculation_satellite()
+passes = satellite.calculation_satellite()
 print(passes)
-bot.plans_txt_list(bot.calculation_satellite())
+photos = []
+current_files = []  #список текущих фоток
+satellite.plans_txt_list(satellite.calculation_satellite())
 for i in passes:
     for j in range(len(passes[i])):
        if passes[i][j][1] + datetime.timedelta(minutes=5) == datetime.now():
