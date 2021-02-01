@@ -4,8 +4,8 @@ import asyncio
 from aiogram.types import message
 from pyorbital.orbital import Orbital
 from requests import get
-
-
+import sqlite3
+import os
 
 
 def update_tle():  # функция обнавления tle файлов
@@ -84,11 +84,13 @@ satellite = Satellite_Bot()
 
 passes = satellite.calculation_satellite()
 print(passes)
-photos = []
-current_files = []  #список текущих фоток
 satellite.plans_txt_list(satellite.calculation_satellite())
 for i in passes:
     for j in range(len(passes[i])):
-       if passes[i][j][1] + datetime.timedelta(minutes=5) == datetime.now():
-           pass
-
+        if passes[i][j][1] + datetime.timedelta(minutes=5) == datetime.now():
+            con = sqlite3.connect('data_base.sql')
+            cur = con.cursor()
+            result = cur.execute("""SELECT file_name FROM photos
+                        WHERE year = 2010""").fetchall()
+            current_files = os.listdir('C:/Program Files (x86)/WXtoImg/images')
+            output = set(current_files).intersection(set(result))
