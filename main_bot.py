@@ -82,5 +82,6 @@ print(passes)
 bot.plans_txt_list(bot.calculation_satellite())
 for i in passes:
     for j in range(len(passes[i])):
-       # passes[i][j][1]
+       if passes[i][j][1] + datetime.timedelta(minutes=5) == datetime.now():
+           pass
 
