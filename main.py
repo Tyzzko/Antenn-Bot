@@ -1,4 +1,4 @@
-from datetime import datetime  # импорт внешних модулей
+from datetime import datetime, timedelta  # импорт внешних модулей
 import dp as dp
 import asyncio
 from aiogram.types import message
@@ -85,16 +85,17 @@ class Satellite_Bot:
 satellite = Satellite_Bot()
 
 passes = satellite.calculation_satellite()
-print(passes)
+# print(passes)
 satellite.plans_txt_list(satellite.calculation_satellite())
 for i in passes:
-    for j in range(len(passes[i])):
-        if passes[i][j][1] + datetime.timedelta(minutes=5) == datetime.now():
+    for j in passes[i]:
+        if j[1] + timedelta(minutes=5) == datetime.now():
             con = sqlite3.connect('data_base.sql')
             cur = con.cursor()
             result = cur.execute("""SELECT file_name FROM photos
                         WHERE year = 2010""").fetchall()
             current_files = os.listdir('C:/Program Files (x86)/WXtoImg/images')
             satellite.get_current_photos(list(set(current_files).intersection(set(result))))
-            for i in satellite.current_photos:
-                cur.execute(f'INSERT INTO photos file_name {i}')
+            for k in satellite.current_photos:
+                cur.execute(f'INSERT INTO photos file_name {k}')
+            print(satellite.current_photos)
