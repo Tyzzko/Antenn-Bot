@@ -1,4 +1,3 @@
-from aiohttp.web_routedef import get
 from main import satellite
 from config import TOKEN
 import logging
@@ -17,9 +16,10 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['help'])
 async def send_photos(message: types.Message):
-    photos = [f'C:/cartinki/cartinki/mcir/{i}' for i in satellite.current_photos]
-    cap = f'{satellite.current_photos[0].split("-"[:2]), datetime.now()}'
-    await bot.send_photo(message.chat.id, tuple(photos), cap)
+    for i in satellite.current_photos:
+        path = f'C:/cartinki/cartinki/mcir/{i}'
+        cap = f'{satellite.current_photos[0].split("-"[:2]), datetime.now()}'
+        await bot.send_photo(message.chat.id, path, cap)
 
 
 if __name__ == '__main__':
