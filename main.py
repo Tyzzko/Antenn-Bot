@@ -48,20 +48,21 @@ class Satellite_Bot:
                                                               Satellite_Bot.lat_poz, Satellite_Bot.height_poz,
                                                               tol=0.001,
                                                               horizon=Satellite_Bot.pitch)
-        self.plans_meteor_m2_2 = self.meteor_m2_2.get_next_passes(self.utc_time, Satellite_Bot.hour, Satellite_Bot.long_poz,
-                                                              Satellite_Bot.lat_poz, Satellite_Bot.height_poz,
-                                                              tol=0.001,
-                                                              horizon=Satellite_Bot.pitch)
+        self.plans_meteor_m2_2 = self.meteor_m2_2.get_next_passes(self.utc_time, Satellite_Bot.hour,
+                                                                  Satellite_Bot.long_poz,
+                                                                  Satellite_Bot.lat_poz, Satellite_Bot.height_poz,
+                                                                  tol=0.001,
+                                                                  horizon=Satellite_Bot.pitch)
 
-        self.passes = {'noaa15': self.plans_noaa15,  # конфигурация словаря
-                       'noaa18': self.plans_noaa18,
-                       'noaa19': self.plans_noaa19,
+        self.passes = {'noaa-15': self.plans_noaa15,  # конфигурация словаря
+                       'noaa-18': self.plans_noaa18,
+                       'noaa-19': self.plans_noaa19,
                        'meteor_m2': self.plans_meteor_m2,
                        'meteor_m2_2': self.plans_meteor_m2_2}
         return self.passes  # Возврат словоря спутник: список пролетов
 
     def plans_txt_list(self, passes_slovar: dict):
-        mass = ['noaa15', 'noaa18', 'noaa19', 'meteor_m2']
+        mass = ['noaa-15', 'noaa-18', 'noaa-19', 'meteor_m2', 'meteor_m2_2']
         self.plans = open('plans_1.txt', 'w')
         for n in mass:
             for i in passes_slovar[n]:
@@ -86,24 +87,9 @@ class Satellite_Bot:
 
 
 satellite = Satellite_Bot()
-positively = 0
 passes = satellite.calculation_satellite()
 satellite.plans_txt_list(satellite.calculation_satellite())
 print('\n'.join(f'{i}: {passes[i]}' for i in passes))
-print(datetime.utcnow())
 satellite.plans_txt_list(satellite.calculation_satellite())
-# for i in passes:
-#     for j in passes[i]:
-#         if j[0] + timedelta(minutes=5) == datetime.utcnow():
-#             positively = 1
-#             # con = sqlite3.connect('data_base.sql')
-#             # cur = con.cursor()
-#             # result = cur.execute("""SELECT file_name FROM photos
-#             #             WHERE year = 2010""").fetchall()
-#             # current_files = os.listdir('C:/Program Files (x86)/WXtoImg/images')
-#             # satellite.get_current_photos(list(set(current_files).intersection(set(result))))
-#             # for k in satellite.current_photos:
-#             #     cur.execute(f'INSERT INTO photos file_name {k}')
-#             # print(satellite.current_photos)
-#             positively = 0
-#
+
+
