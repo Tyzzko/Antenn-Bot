@@ -2,7 +2,7 @@ from config import TOKEN
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 from datetime import datetime, timedelta
-from main import passes, satellite
+from main import satellite, update_tle
 import os
 import sqlite3
 
@@ -34,10 +34,11 @@ async def send_photos(message: types.Message):
                     current_files = os.listdir('C:/Program Files (x86)/WXtoImg/imagels')
                     file = list(set(current_files).intersection(set(result)))
                     cur.execute(f'INSERT INTO photos file_name {file[0]}')
-                    await bot.send_message(message.chat.id, j)
                     await bot.send_photo(message.chat.id, path, file[0])
-                else:
-                    await bot.send_message(message.chat.id, 'спутников нема(')
+                    update_tle()
+                    passes = satellite.calculation_satellite()
+                    satellite.plans_txt_list(passes)
+
 
 
 if __name__ == '__main__':
